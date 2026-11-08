@@ -84,7 +84,7 @@ The graphic is a designed reproduction.
 
 ### Limitations and disclosures
 
-Use the Post 07 statement in DISCLOSURE_AND_ATTRIBUTION.md, item 7.
+This educational graphic reproduces the publicly visible Dashboard Blueprint service information from ChudiCorp's Services page. Its wording was verified against the website. It is a designed presentation rather than an independently authenticated browser screenshot from 31 October 2026.
 
 ### Transferable professional lesson
 
