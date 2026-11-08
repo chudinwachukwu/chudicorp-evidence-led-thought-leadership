@@ -1,6 +1,6 @@
 # Content index and public evidence mapping
 
-**Status:** Private review draft. The 15 posts were approved and scheduled, but no per-post live publication or engagement outcome is claimed without a verified source.
+**Status:** GitHub portfolio published publicly following owner authorisation on 8 November 2026. The 15 posts were approved and scheduled, but no per-post live publication or engagement outcome is claimed without a verified source.
 
 ## Browse the 15 individual case studies
 
