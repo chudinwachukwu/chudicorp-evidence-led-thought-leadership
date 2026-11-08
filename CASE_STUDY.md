@@ -10,7 +10,7 @@ Intensive work in October 2026 added the following:
 - Stripe checkout tested only in Test Mode, including successful, declined and authentication-failure cases;
 - checkout recovery safeguards;
 - hourly reconciliation monitoring;
-- spam protection (hidden trap, Cloudflare check, repeat-submission limits);
+- spam and abuse-prevention controls;
 - search foundations (sitemap, robots rules, canonical tags);
 - the removal of public prices from the pages and from the data those pages request;
 - admin sign-in with a business email address.
