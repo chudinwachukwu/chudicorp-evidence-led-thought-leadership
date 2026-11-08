@@ -49,10 +49,12 @@ the technical evidence.
 </p>
 
 ## How evidence is handled
-Every claim is labelled by source (Documented, Lovable-reported,
-Owner-verified, Owner-confirmed, Inferred, Illustrative, Unverified) and timing
-(report-recorded, inspected during review, performed at the time). A report
-that a test was performed is not presented as an independent audit.
+Each post module records its evidence source and verification / timing at the
+module level. Its case-study sections identify supporting milestones,
+illustrative or retrospective elements, and limitations and disclosures.
+These classifications do not mean that every individual claim has a separate
+inline source and timing label. A report that a test was performed is not
+presented as an independent audit.
 See [Methodology](METHODOLOGY.md) and [Disclosure](DISCLOSURE_AND_ATTRIBUTION.md).
 
 ## Status
