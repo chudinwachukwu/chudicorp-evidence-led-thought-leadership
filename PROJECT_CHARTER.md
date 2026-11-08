@@ -65,4 +65,4 @@ That knowledge was spread across briefs, decisions, test reports, security revie
 3. GitHub and Behance materials public-safe and distinct from each other. **Stage C drafts complete.**
 4. Actual performance evidence incorporated once verified. **Pending.**
 
-**Governance.** Publication of GitHub or Behance (Stage D) requires separate owner approval.
+**Governance.** Publication of GitHub or Behance (Stage D) requires separate owner approval. Chudi Nwachukwu authorised Stage D2 GitHub publication on 8 November 2026, and the repository was made Public. Behance publication remains pending.
