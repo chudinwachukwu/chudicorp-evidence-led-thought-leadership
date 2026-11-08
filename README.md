@@ -59,7 +59,8 @@ See [Methodology](METHODOLOGY.md) and [Disclosure](DISCLOSURE_AND_ATTRIBUTION.md
 
 ## Status
 - 15 posts and graphics: approved and manually scheduled
-- Portfolio documentation: assembled for private review; publication not authorised
+- GitHub portfolio: Stage D2 publication authorised by Chudi Nwachukwu on 8 November 2026; repository published publicly
+- Behance presentation: draft storyboard prepared; publication pending
 - LinkedIn performance: actual publication and performance evidence will be
   incorporated when supplied and verified
 - ChudiCorp production acceptance: conditional
