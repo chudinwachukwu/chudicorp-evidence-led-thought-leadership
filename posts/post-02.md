@@ -64,7 +64,7 @@ Given/When/Then acceptance criteria.
 
 ### Implementation or delivery context
 
-Saved enquiries with unique references and shared validation (M03). Spam validation (M16). Hidden trap, Cloudflare check and email/network limits (M21).
+Saved enquiries with unique references and shared validation (M03). Spam validation (M16). Spam and abuse-prevention controls (M21).
 
 ### Testing and documentation
 
