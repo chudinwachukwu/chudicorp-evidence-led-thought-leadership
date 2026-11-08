@@ -2,7 +2,7 @@
 
 - [ ] The caption in each post file matches the approved source exactly.
 - [ ] The visual is the approved file, unchanged.
-- [ ] Each claim carries a source label and a timing label.
+- [ ] Each post module records its evidence source and verification / timing, supporting milestones, illustrative or retrospective elements, and limitations and disclosures; these accurately qualify the claims made.
 - [ ] The required post-level disclosure is present (A5, items 6–14).
 - [ ] No customer references, payment IDs, account emails, admin screens, credentials or security mechanisms appear.
 - [ ] Nothing implies revenue, client delivery, indexing, traffic, engagement or completed acceptance.
