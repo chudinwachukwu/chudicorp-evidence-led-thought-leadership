@@ -40,7 +40,11 @@ the technical evidence.
 | Data Analytics and Evidence | [04 Dashboard is not the case study](posts/post-04.md) · [05 Patient-flow scenario](posts/post-05.md) · [14 Discovery is not impact](posts/post-14.md) |
 | AI Governance and Information Protection | [10 Human oversight in AI](posts/post-10.md) · [11 Hiding is not securing](posts/post-11.md) · [15 Human accountability](posts/post-15.md) |
 | Systems Integration and Commercial Assurance | [12 End-to-end email testing](posts/post-12.md) · [13 Validation is not success](posts/post-13.md) |
+## Visual presentation
 
+[View the complete visual presentation on Behance](https://www.behance.net/gallery/258215089/ChudiCorp-Evidence-Led-Thought-Leadership)
+
+Explore the five workstreams, 15 graphics and accompanying evidence qualifications.
 ## Selected visuals
 <p>
   <a href="posts/post-01.md"><img src="visuals/post-01.png" width="180" alt="Post 01: From a Website to a Business System"></a>
@@ -60,7 +64,7 @@ See [Methodology](METHODOLOGY.md) and [Disclosure](DISCLOSURE_AND_ATTRIBUTION.md
 ## Status
 - 15 posts and graphics: approved and manually scheduled
 - GitHub portfolio: Stage D2 publication authorised by Chudi Nwachukwu on 8 November 2026; repository published publicly
-- Behance presentation: draft storyboard prepared; publication pending
+- Behance presentation: published, with supporting graphics and evidence qualifications
 - LinkedIn performance: actual publication and performance evidence will be
   incorporated when supplied and verified
 - ChudiCorp production acceptance: conditional
