@@ -15,7 +15,7 @@
 - **Stage C, documentation:** public-safe GitHub and Behance materials were drafted from the two stages above.
 
 **Evidence rules**
-- Every claim carries one source label and one timing label (definitions at the top of this document).
+- Each post module records its evidence source and verification / timing at the module level, using the evidence-classification reference below. Supporting milestones, illustrative or retrospective elements, and limitations and disclosures are recorded in its case-study sections. This does not mean that every individual claim has a separate inline source and timing label.
 - A Lovable-reported test means the project records say the test ran. It is not an independent audit.
 - Owner-verified means the owner observed the result and supplied evidence, such as a screenshot. Owner-confirmed means the owner's statement only.
 - Retrospective portfolio framings are labelled Inferred. They are never presented as artefacts that existed during development.
