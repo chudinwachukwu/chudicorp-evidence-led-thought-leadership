@@ -12,4 +12,4 @@
 - [ ] Links and alt text work.
 - [ ] Owner sign-off is recorded.
 
-This is the pre-publication checklist. Review-package validation results are recorded separately in the private QA report. Owner sign-off remains outstanding.
+This is the pre-publication checklist. Review-package validation results are recorded separately in the private QA report. Owner sign-off for Stage D2 GitHub publication was given on 8 November 2026, after the targeted pre-publication corrections were verified. Behance publication remains pending.
